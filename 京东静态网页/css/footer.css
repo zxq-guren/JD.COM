@@ -1,0 +1,108 @@
+@charset"UTF-8";
+/*结尾部分开始*/
+
+.footer {
+    margin-bottom: 50px;
+
+}
+
+.slogen {
+    height: 94px;
+    line-height: 94px;
+    background-color: #F5F5F5;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.slogen span {
+    height: 94px;
+    width: 220px;
+    display: block;
+    float: left;
+    text-align: center;
+    position: relative;
+    padding-right: 82px;
+}
+
+.slogen span i {
+
+    width: 220px;
+    height: 54px;
+    display: block;
+    position: absolute;
+    background: url(../img/service_items_1.png) no-repeat;
+    top: 20px;
+}
+
+.slogen span .i1 {
+    background: url(../img/service_items_2.png);
+}
+.slogen span .i2 {
+    background: url(../img/service_items_3.png);
+}
+.slogen span .i3 {
+    background: url(../img/service_items_4.png);
+}
+
+.slogen  b {
+    font-size: 20px;
+    color: #B1191A;
+}
+
+
+/*服务部分*/
+.service {
+    height: 202px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.service dl {
+    float: left;
+    margin-top: 25px;
+    width: 200px;
+}
+
+.service dt {
+    height: 28px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.service dd {
+    height: 21px;
+}
+
+.service dd a:hover {
+    color: #B1191A;
+}
+
+.service .cover {
+    width: 202px;
+    height: 169px;
+    background: url(../img/coverage.png) no-repeat 0 -131px;
+}
+
+.service .cover p {
+    line-height: 20px;
+}
+
+.service .cover a {
+    float: right;
+    margin-top: 5px;
+}
+
+
+/*底部开始*/
+.bot-footer  {
+    text-align: center;
+}
+
+.friend-link {
+    margin: 10px 0;
+}
+
+.friend-link2 {
+    line-height: 25px;
+    margin-bottom: 10px;
+	text-align: center;
+}
