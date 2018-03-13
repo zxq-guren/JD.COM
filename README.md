@@ -1,6 +1,6 @@
 # JD.COM
 前端入门实战。使用 HTML/CSS 编写的纯前端电商网站。
-![图片预览]()
+![图片预览](http://p5ig1aqhx.bkt.clouddn.com/jd.png)
 
 ## 收获
 
